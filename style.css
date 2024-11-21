@@ -47,3 +47,7 @@
     background: white;
     background: rgba(115, 133, 159, 0.75);
 }
+
+.about-image {
+    width: 10rem;
+}
